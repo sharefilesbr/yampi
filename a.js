@@ -99,8 +99,8 @@ div.box-checkout.box-addresses.active > div.box-title > a {
 
 .pulse
 {
-  animation: heartbeat 1.5s infinite;
-  -webkit-animation: heartbeat 1.5s infinite;
+  animation: heartbeat 1.2s infinite;
+  -webkit-animation: heartbeat 1.2s infinite;
 }
 
 `)
